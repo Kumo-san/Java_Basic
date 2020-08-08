@@ -1,5 +1,5 @@
 // Output_print_Base.java
-
+// Escapesequence Sample
 class Output_print_Base  {
   public static void main(String[] args)  {
 	Output_Print_String ();
